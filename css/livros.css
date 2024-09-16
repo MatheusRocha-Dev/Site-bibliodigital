@@ -33,6 +33,7 @@ body{
 p{
     font-size: 15px;
     text-decoration: justify;
+    margin-top: 10px;
 
     
 }
@@ -96,6 +97,7 @@ img{
 
 a{
     text-decoration: none;
+    margin-top: 30px;
 }
 a:link, a:visited{
     color: #f7b600;
