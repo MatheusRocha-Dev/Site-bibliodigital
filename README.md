@@ -1,2 +1,5 @@
 # site-bibliodigital
- site simples, com navegação entre paginas
+ 
+Criada para divulgação do saneamento básico para pessoa que tem pouco acesso a internet.
+
+Link:
